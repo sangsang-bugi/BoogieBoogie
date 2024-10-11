@@ -1,4 +1,4 @@
-# quiz_app
+# BoogieBoogie
 
 A new Flutter project.
 
